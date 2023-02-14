@@ -1,0 +1,8 @@
+9620fd6c3bd22a467227c61d76819c11
+
+suhu sekarang = temp
+
+min-max suhu = temp_mix -temp max
+keceapatan  angin = speed
+
+kuantitas awan = clouds all
